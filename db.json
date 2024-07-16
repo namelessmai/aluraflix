@@ -1,0 +1,17 @@
+{
+  "frontend": [
+    { "id": 1, "titulo": "Introdução ao React", "descricao": "Aprenda o básico do React", "imagem": "./assets/image 7.png", "video": "https://www.youtube.com/embed/SEU_VIDEO_ID" },
+    { "id": 2, "titulo": "Título do Vídeo", "descricao": "Descrição do vídeo", "imagem": "images/meu_video.jpg", "video": "https://www.youtube.com/embed/SEU_VIDEO_ID" },
+    { "id": 3, "titulo": "Outro Vídeo", "descricao": "Descrição do outro vídeo", "imagem": "images/outro_video.jpg", "video": "https://www.youtube.com/embed/SEU_VIDEO_ID" }
+  ],
+  "backend": [
+    { "id": 1, "titulo": "Introdução ao Node.js", "descricao": "Fundamentos do Node.js", "imagem": "images/intro_nodejs.jpg", "video": "https://www.youtube.com/embed/SEU_VIDEO_ID" },
+    { "id": 2, "titulo": "Vídeo de Backend", "descricao": "Descrição do vídeo de backend", "imagem": "images/backend_video.jpg", "video": "https://www.youtube.com/embed/SEU_VIDEO_ID" },
+    { "id": 3, "titulo": "Outro Vídeo de Backend", "descricao": "Descrição do outro vídeo de backend", "imagem": "images/outro_backend_video.jpg", "video": "https://www.youtube.com/embed/SEU_VIDEO_ID" }
+  ],
+  "mobile": [
+    { "id": 1, "titulo": "Desenvolvimento Android com Kotlin", "descricao": "Aprenda a desenvolver para Android com Kotlin", "imagem": "images/android_kotlin.jpg", "video": "https://www.youtube.com/embed/SEU_VIDEO_ID" },
+    { "id": 2, "titulo": "Vídeo de Mobile", "descricao": "Descrição do vídeo de mobile", "imagem": "images/mobile_video.jpg", "video": "https://www.youtube.com/embed/SEU_VIDEO_ID" },
+    { "id": 3, "titulo": "Outro Vídeo de Mobile", "descricao": "Descrição do outro vídeo de mobile", "imagem": "images/outro_mobile_video.jpg", "video": "https://www.youtube.com/embed/SEU_VIDEO_ID" }
+  ]
+}
